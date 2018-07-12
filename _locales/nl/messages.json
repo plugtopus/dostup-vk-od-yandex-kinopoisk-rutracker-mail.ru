@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Extension provides access to the VK, OD, Yandex, Kinopoisk, Rutracker, Mail.ru websites"
+   },
+   "name": {
+      "message": "Access VK, Rutracker..."
+   },
+   "shortname": {
+      "message": "Access VK, Rutracker..."
+   },
+   "title": {
+      "message": "Access VK, Rutracker..."
+   }
+}
